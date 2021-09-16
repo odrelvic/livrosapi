@@ -1,24 +1,8 @@
 {
-   "livro": [
-      {
-         "id": 1,
-         "titulo": "Orgulho e Preconceito",
-         "autor": "Jane Austen"
-      },
-      {
-         "id": 2,
-         "titulo": "1984",
-         "autor": "George Orwell"
-      },
-      {
-         "id": 3,
-         "titulo": "Dom Quixote de La Mancha",
-         "autor": "Miguel de Cervantes"
-      },
-      {
-         "id": 4,
-         "titulo": "O Pequeno Príncipe",
-         "autor": "Antoine de Saint-Exupéry"
-      }
-   ]
+  "cursos": [
+    { "id": 1, "titulo": "Orgulho e Preconceito", "url": "https://www.codeprestige.com.br/cursos/es6" },
+    { "id": 2, "titulo": "1984", "url": "https://www.udemy.com/truques-vscode/" },
+    { "id": 3, "titulo": "Dom Quixote de La Mancha", "url": "https://www.codeprestige.com.br/cursos/es7-8" },
+    { "id": 4, "titulo": "Miguel de Cervantes", "url": "https://www.udemy.com/react-16/" }
+  ]
 }
